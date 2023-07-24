@@ -1,0 +1,88 @@
+[
+    {
+      "_id": 1,
+      "company_logo_url":"https://i.ibb.co/gTtWGcD/mitchell-luo-jz4ca36o-J-M-unsplash.jpg",
+      "position": "Software Engineer",
+      "job_location": "San Francisco, CA",
+      "company_name": "TechCorp"
+      },
+      {
+        "_id": 2,
+        "company_logo_url":"https://i.ibb.co/4VNcq8V/christian-wiediger-rymh7-EZPq-Rs-unsplash.jpg",
+        "position": "Data Analyst",
+        "job_location": "New York, NY",
+        "company_name": "DataTech"
+      },
+      {
+        "_id": 3,
+        "company_logo_url":"https://i.ibb.co/nCMBzKf/dima-solomin-y-IT9-HO8-Ur-PA-unsplash.jpg",
+        "position": "Marketing Specialist",
+        "job_location": "Chicago, IL",
+        "company_name": "MarketingMasters"
+    
+      },
+      {
+        "_id": 4,
+        "company_logo_url":"https://i.ibb.co/k85ST5T/sumudu-mohottige-b-Igpii04-UIg-unsplash.jpg",
+        "position": "Product Manager",
+        "job_location": "Seattle, WA",
+        "company_name": "InnovateTech"
+      },
+      {
+        "_id": 5,
+        "company_logo_url":"https://i.ibb.co/9pNhxX3/alexander-shatov-UVfv-Frp4x4-E-unsplash.jpg",
+        "position": "Graphic Designer",
+        "job_location": "Los Angeles, CA",
+        "company_name": "DesignWorks"
+      },
+      {
+        "_id": 6,
+        "company_logo_url":"https://i.ibb.co/RHrgGf5/austin-distel-Vwsuh-J9uee4-unsplash.jpg",
+        "position": "Financial Analyst",
+        "job_location": "Boston, MA",
+        "company_name": "FinancePlus"
+      },
+      {
+        "_id": "7",
+        "company_logo_url":"https://i.ibb.co/gTtWGcD/mitchell-luo-jz4ca36o-J-M-unsplash.jpg",
+        "position": "HR Manager",
+        "job_location": "Austin, TX",
+        "company_name": "HRPros"
+      },
+      {
+        "_id": "8",
+        "company_logo_url":"https://i.ibb.co/4VNcq8V/christian-wiediger-rymh7-EZPq-Rs-unsplash.jpg",
+        "position": "Sales Representative",
+        "job_location": "Miami, FL",
+        "company_name": "SalesForce"
+      },
+      {
+        "_id": "9",
+        "company_logo_url":"https://i.ibb.co/nCMBzKf/dima-solomin-y-IT9-HO8-Ur-PA-unsplash.jpg",
+        "position": "Content Writer",
+        "job_location": "Denver, CO",
+        "company_name": "ContentCo"
+      },
+      {
+        "_id": "10",
+        "company_logo_url":"https://i.ibb.co/k85ST5T/sumudu-mohottige-b-Igpii04-UIg-unsplash.jpg",
+        "position": "IT Support Specialist",
+        "job_location": "Dallas, TX",
+        "company_name": "IT Solutions"
+      },
+      {
+        "_id": "11",
+        "company_logo_url":"https://i.ibb.co/9pNhxX3/alexander-shatov-UVfv-Frp4x4-E-unsplash.jpg",
+        "position": "Operations Manager",
+        "job_location": "Atlanta, GA",
+        "company_name": "OperationsPro"
+        
+      },
+      {
+        "_id": "12",
+        "position": "Customer Service Representative",
+        "job_location": "Phoenix, AZ",
+        "company_name": "ServiceFirst",
+        "company_logo_url":"https://i.ibb.co/RHrgGf5/austin-distel-Vwsuh-J9uee4-unsplash.jpg"
+      }
+]
